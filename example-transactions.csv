@@ -1,0 +1,21 @@
+Transaction Date,Description,Amount,Category,Type
+2026-09-30,WHOLE FOODS 1045,-82.64,Groceries,Purchase
+2026-09-29,TST *CAFE MOGADOR,-48.50,Dining,Purchase
+2026-09-28,MTA PAYGO,-2.90,Transport,Purchase
+2026-09-27,UNIQLO 1234,-89.90,Shopping,Purchase
+2026-09-26,NETFLIX,-17.99,Subscriptions,Purchase
+2026-09-25,TRADER JOES 567,-64.23,Groceries,Purchase
+2026-09-24,SQ *CAFE MOGADOR,-32.00,Dining,Purchase
+2026-09-23,MTA PAYGO,-2.90,Transport,Purchase
+2026-09-22,SPOTIFY,-11.99,Subscriptions,Purchase
+2026-09-21,UNIQLO STORE 5678,24.90,Shopping,Refund
+2026-09-20,WHOLE FOODS STORE 5678,-92.18,Groceries,Purchase
+2026-09-19,BOOK CULTURE,-36.00,Shopping,Purchase
+2026-09-18,MTA PAYGO,-2.90,Transport,Purchase
+2026-09-17,CAFE MOGADOR,-54.80,Dining,Purchase
+2026-09-16,TRADER JOES 567,-48.32,Groceries,Purchase
+2026-09-15,RENT,-1450.00,Housing,Purchase
+2026-09-14,CON EDISON,-67.42,Utilities,Purchase
+2026-09-13,INTERNET,-50.00,Utilities,Purchase
+2026-09-12,TRANSFER TO SAVINGS,-500.00,Transfer,Transfer
+2026-09-11,PAYCHECK,2400.00,Income,Income
